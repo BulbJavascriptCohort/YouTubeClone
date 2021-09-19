@@ -1,0 +1,11 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+.head1{
+
+    height: 50px;
+    margin: 0 5px
+}

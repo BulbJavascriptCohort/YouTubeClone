@@ -1,0 +1,46 @@
+.body{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.body2{
+    display: flex;
+    width: 14%;
+    justify-content: space-between;
+}
+#head{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    min-height: fit-content;
+}
+.btn{
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+}
+/* .body3{
+    background-image: url("./nfl.jpg");
+    border-radius: 50px;
+} */
+a{
+    text-decoration: none;
+    color: gray;
+}
+.sort{
+    display: flex;
+    width: 17%;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+input {
+    width: 100%;
+    background-color: #fcfcfc;
+    border: 0;
+    border-bottom: 2px solid lightgrey;
+    
+    color: grey;
+  }

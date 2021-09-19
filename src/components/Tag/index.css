@@ -1,0 +1,11 @@
+#tag{
+    display: flex;
+    justify-content: space-between;
+    max-Width: 530px;
+    margin: 10px;
+}
+.btn{
+    background-color:#efef;
+    border: 1px solid gray;
+
+}
