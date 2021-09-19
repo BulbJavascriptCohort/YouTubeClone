@@ -27,7 +27,7 @@ function CommentsHeader() {
 							<span>176K subscribers</span>
 						</p>
 					</div>
-                    <button type="button" class="btn btn-outline-warning"   style={{'backgroundColor':"red","color":"white", "fontWeight":"bolder"}}> SUBSCRIBE</button>
+                    <button type="button" className="btn btn-outline-warning"   style={{'backgroundColor':"red","color":"white", "fontWeight":"bolder"}}> SUBSCRIBE</button>
 				</div>
                 <p>Kids crashing their NFL dads interviews.</p>
                 <p>Subscribe to NFL Rush!</p>
