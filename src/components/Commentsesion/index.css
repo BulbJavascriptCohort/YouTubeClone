@@ -9,3 +9,7 @@
     height: 50px;
     margin: 0 5px
 }
+.row{
+    display: flex;
+
+}
